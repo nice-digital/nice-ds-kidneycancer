@@ -1,0 +1,20 @@
+# Folders to exclude
+kidneycancer/code/.ipynb_checkpoints/
+kidneycancer/data/
+kidneycancer/results/
+
+# Files to exclude
+
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
